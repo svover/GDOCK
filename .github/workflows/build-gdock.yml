@@ -3,7 +3,7 @@
 #   Author: JK
 #=================================================
 
-name: r619ac G-DOCK
+name: Build G-DOCK
 
 on: 
   release:
