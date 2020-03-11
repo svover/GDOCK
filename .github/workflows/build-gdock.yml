@@ -3,14 +3,14 @@
 #   Author: JK
 #=================================================
 
-name: Build G-DOCK
+name: r619ac G-DOCK
 
 on: 
   release:
     types: [published]
-  push:
-    branches: 
-      - master
+#  push:
+#    branches: 
+#      - master
 
 jobs:
   build:
